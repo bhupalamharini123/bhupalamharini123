@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Bhupalam Harini
 
-<!--
-**bhupalamharini123/bhupalamharini123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 Exploring AI/ML  
+🌐 Learning Web Development  
+💻 Practicing Data Structures  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C++
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## 🚀 Currently Working On
+- AI/ML course from iHub Patna
+- Web Development course by Angela
+- DSA Practice
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/bhupalam-harini-977381369/
+
